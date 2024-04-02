@@ -1,0 +1,14 @@
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\sumatoria_arrays\bin\Debug\net7.0\sumatoria_arrays.exe
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\sumatoria_arrays\bin\Debug\net7.0\sumatoria_arrays.deps.json
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\sumatoria_arrays\bin\Debug\net7.0\sumatoria_arrays.runtimeconfig.json
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\sumatoria_arrays\bin\Debug\net7.0\sumatoria_arrays.dll
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\sumatoria_arrays\bin\Debug\net7.0\sumatoria_arrays.pdb
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\sumatoria_arrays\obj\Debug\net7.0\sumatoria_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\sumatoria_arrays\obj\Debug\net7.0\sumatoria_arrays.AssemblyInfoInputs.cache
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\sumatoria_arrays\obj\Debug\net7.0\sumatoria_arrays.AssemblyInfo.cs
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\sumatoria_arrays\obj\Debug\net7.0\sumatoria_arrays.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\sumatoria_arrays\obj\Debug\net7.0\sumatoria_arrays.dll
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\sumatoria_arrays\obj\Debug\net7.0\refint\sumatoria_arrays.dll
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\sumatoria_arrays\obj\Debug\net7.0\sumatoria_arrays.pdb
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\sumatoria_arrays\obj\Debug\net7.0\sumatoria_arrays.genruntimeconfig.cache
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\sumatoria_arrays\obj\Debug\net7.0\ref\sumatoria_arrays.dll

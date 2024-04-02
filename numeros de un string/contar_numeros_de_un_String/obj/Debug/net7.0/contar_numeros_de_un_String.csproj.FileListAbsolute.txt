@@ -1,0 +1,14 @@
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\contar_numeros_de_un_String\bin\Debug\net7.0\contar_numeros_de_un_String.exe
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\contar_numeros_de_un_String\bin\Debug\net7.0\contar_numeros_de_un_String.deps.json
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\contar_numeros_de_un_String\bin\Debug\net7.0\contar_numeros_de_un_String.runtimeconfig.json
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\contar_numeros_de_un_String\bin\Debug\net7.0\contar_numeros_de_un_String.dll
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\contar_numeros_de_un_String\bin\Debug\net7.0\contar_numeros_de_un_String.pdb
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\contar_numeros_de_un_String\obj\Debug\net7.0\contar_numeros_de_un_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\contar_numeros_de_un_String\obj\Debug\net7.0\contar_numeros_de_un_String.AssemblyInfoInputs.cache
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\contar_numeros_de_un_String\obj\Debug\net7.0\contar_numeros_de_un_String.AssemblyInfo.cs
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\contar_numeros_de_un_String\obj\Debug\net7.0\contar_numeros_de_un_String.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\contar_numeros_de_un_String\obj\Debug\net7.0\contar_numeros_de_un_String.dll
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\contar_numeros_de_un_String\obj\Debug\net7.0\refint\contar_numeros_de_un_String.dll
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\contar_numeros_de_un_String\obj\Debug\net7.0\contar_numeros_de_un_String.pdb
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\contar_numeros_de_un_String\obj\Debug\net7.0\contar_numeros_de_un_String.genruntimeconfig.cache
+C:\Users\Renato\Desktop\PRUEBA TECNICA\numeros de un string\contar_numeros_de_un_String\obj\Debug\net7.0\ref\contar_numeros_de_un_String.dll
